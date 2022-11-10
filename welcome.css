@@ -148,3 +148,12 @@ nav, footer {
        width: 67%;
    }
 }
+
+@media screen and (max-width:768px){
+.main-inner .column-center-outer, .main-inner .column-right-outer
+{float:none;
+  width:100%!important;}
+.footer-inner, .main-inner .column-center-inner, .main-inner .column-right-inner{padding:0;}
+.Header h1{font-size:20px;text-align:center;}
+.Header .description{font-size:14px;text-align:center;}
+}
