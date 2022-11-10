@@ -116,3 +116,8 @@ nav, footer {
    }
 }
  
+@media only screen and (min-device-width: 400px) {
+  body {
+    background-image: url('915b1b4a05133186525a956d7ca5c142a3c3c9f3.jpg');
+  }
+}
